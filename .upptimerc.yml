@@ -7,6 +7,8 @@ sites:
     url: https://www-liphy.univ-grenoble-alpes.fr
   - name: LIPhy Webmail
     url: https://liphy-webmail.u-ga.fr
+  - name: le Zata
+    url: http://zata.free.fr
 
 
 status-website:
