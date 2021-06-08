@@ -9,8 +9,6 @@ sites:
     url: https://liphy-webmail.u-ga.fr
   - name: le Zata
     url: http://zata.free.fr
-  - name: Bad one
-    url: http://zata.freemachin-chose.fr
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
