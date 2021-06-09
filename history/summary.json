@@ -40,19 +40,19 @@
     "url": "http://zata.free.fr",
     "icon": "https://favicons.githubusercontent.com/zata.free.fr",
     "slug": "le-zata",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 814,
-    "timeDay": 814,
-    "timeWeek": 814,
-    "timeMonth": 814,
-    "timeYear": 814,
+    "status": "up",
+    "uptime": "99.09%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.09%",
+    "uptimeYear": "99.09%",
+    "time": 899,
+    "timeDay": 899,
+    "timeWeek": 899,
+    "timeMonth": 899,
+    "timeYear": 899,
     "dailyMinutesDown": {
-      "2021-06-09": 0
+      "2021-06-09": 10
     }
   }
 ]
