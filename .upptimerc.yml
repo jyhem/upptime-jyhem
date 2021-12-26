@@ -3,10 +3,8 @@ owner: jyhem # Your GitHub organization or username, where this repository lives
 repo: upptime-jyhem # The name of this repository
 
 sites:
-  - name: LIPhy WWW
-    url: https://www-liphy.univ-grenoble-alpes.fr
-  - name: LIPhy Webmail
-    url: https://liphy-webmail.u-ga.fr
+  - name: DPM WWW
+    url: https://dpm.univ-grenoble-alpes.fr
   - name: le Zata
     url: http://zata.free.fr
 
