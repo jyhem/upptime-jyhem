@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.96%",
-    "time": 1361,
-    "timeDay": 1616,
-    "timeWeek": 1225,
-    "timeMonth": 1309,
-    "timeYear": 1361,
+    "time": 1360,
+    "timeDay": 1132,
+    "timeWeek": 1213,
+    "timeMonth": 1308,
+    "timeYear": 1360,
     "dailyMinutesDown": {
       "2022-07-28": 39,
       "2022-06-30": 21,
@@ -28,15 +28,15 @@
     "icon": "https://favicons.githubusercontent.com/zata.free.fr",
     "slug": "le-zata",
     "status": "up",
-    "uptime": "99.56%",
+    "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.48%",
     "time": 920,
-    "timeDay": 1020,
-    "timeWeek": 966,
-    "timeMonth": 998,
+    "timeDay": 750,
+    "timeWeek": 931,
+    "timeMonth": 997,
     "timeYear": 922,
     "dailyMinutesDown": {
       "2022-08-01": 19,
@@ -124,8 +124,7 @@
       "2021-08-27": 57,
       "2021-08-26": 5,
       "2021-08-21": 24,
-      "2021-08-19": 26,
-      "2021-08-16": 65
+      "2021-08-19": 26
     }
   }
 ]
