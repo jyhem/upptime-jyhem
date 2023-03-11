@@ -34,14 +34,14 @@
     "url": "http://zata.free.fr",
     "icon": "https://icons.duckduckgo.com/ip3/zata.free.fr.ico",
     "slug": "le-zata",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "97.32%",
+    "uptimeDay": "98.56%",
     "uptimeWeek": "98.13%",
     "uptimeMonth": "98.75%",
-    "uptimeYear": "99.43%",
-    "time": 1051,
-    "timeDay": 1076,
+    "uptimeYear": "99.44%",
+    "time": 1052,
+    "timeDay": 944,
     "timeWeek": 1070,
     "timeMonth": 1134,
     "timeYear": 1092,
@@ -123,8 +123,7 @@
       "2022-03-30": 22,
       "2022-03-23": 54,
       "2022-03-22": 21,
-      "2022-03-15": 18,
-      "2022-03-14": 22
+      "2022-03-15": 18
     }
   }
 ]
