@@ -6,12 +6,12 @@
     "slug": "dpm-www",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.75%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.93%",
     "time": 1376,
-    "timeDay": 1329,
+    "timeDay": 1172,
     "timeWeek": 1326,
     "timeMonth": 1353,
     "timeYear": 1375,
@@ -37,13 +37,13 @@
     "url": "http://zata.free.fr",
     "icon": "https://icons.duckduckgo.com/ip3/zata.free.fr.ico",
     "slug": "le-zata",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "96.99%",
+    "uptimeDay": "96.98%",
     "uptimeWeek": "98.42%",
     "uptimeMonth": "98.79%",
     "uptimeYear": "99.43%",
-    "time": 1083,
+    "time": 1082,
     "timeDay": 1289,
     "timeWeek": 1404,
     "timeMonth": 1249,
@@ -123,8 +123,7 @@
       "2022-05-30": 22,
       "2022-05-27": 28,
       "2022-05-25": 25,
-      "2022-05-22": 196,
-      "2022-05-21": 15
+      "2022-05-22": 196
     }
   }
 ]
