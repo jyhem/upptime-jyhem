@@ -4,7 +4,7 @@
     "url": "https://dpm.univ-grenoble-alpes.fr",
     "icon": "https://icons.duckduckgo.com/ip3/dpm.univ-grenoble-alpes.fr.ico",
     "slug": "dpm-www",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1314,
     "timeYear": 1357,
     "dailyMinutesDown": {
+      "2023-11-09": 0,
       "2023-10-02": 38,
       "2023-09-11": 18,
       "2023-09-07": 24,
