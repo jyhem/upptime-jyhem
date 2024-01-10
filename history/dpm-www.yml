@@ -1,7 +1,7 @@
 url: https://dpm.univ-grenoble-alpes.fr
-status: up
-code: 200
-responseTime: 1401
-lastUpdated: 2024-01-09T23:07:31.321Z
+status: down
+code: 500
+responseTime: 980
+lastUpdated: 2024-01-10T07:26:34.751Z
 startTime: 2021-12-26T21:00:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
