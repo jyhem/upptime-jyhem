@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1241,
-    "timeDay": 987,
-    "timeWeek": 1223,
-    "timeMonth": 1174,
-    "timeYear": 1196,
+    "timeDay": 962,
+    "timeWeek": 1242,
+    "timeMonth": 1172,
+    "timeYear": 1194,
     "dailyMinutesDown": {
       "2024-05-17": 18,
       "2024-02-20": 25,
@@ -32,18 +32,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/zata.free.fr.ico",
     "slug": "le-zata",
     "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "97.24%",
-    "uptimeMonth": "97.79%",
-    "uptimeYear": "99.53%",
-    "time": 1296,
-    "timeDay": 865,
-    "timeWeek": 885,
-    "timeMonth": 1027,
-    "timeYear": 1267,
+    "uptime": "99.85%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.54%",
+    "uptimeMonth": "97.82%",
+    "uptimeYear": "99.52%",
+    "time": 1295,
+    "timeDay": 856,
+    "timeWeek": 872,
+    "timeMonth": 1028,
+    "timeYear": 1265,
     "dailyMinutesDown": {
-      "2024-09-16": 11,
       "2024-09-15": 55,
       "2024-09-14": 16,
       "2024-09-13": 22,
@@ -107,7 +106,8 @@
       "2024-06-29": 52,
       "2024-06-28": 41,
       "2024-06-27": 38,
-      "2024-06-26": 21
+      "2024-06-26": 21,
+      "2024-06-24": 36
     }
   }
 ]
