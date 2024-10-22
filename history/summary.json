@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1239,
-    "timeDay": 1044,
-    "timeWeek": 1115,
-    "timeMonth": 1191,
-    "timeYear": 1186,
+    "time": 1238,
+    "timeDay": 1016,
+    "timeWeek": 1105,
+    "timeMonth": 1182,
+    "timeYear": 1183,
     "dailyMinutesDown": {
       "2024-05-17": 18,
       "2024-02-20": 25,
@@ -32,17 +32,16 @@
     "slug": "le-zata",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "98.35%",
-    "uptimeMonth": "98.13%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.64%",
+    "uptimeMonth": "98.16%",
     "uptimeYear": "99.51%",
     "time": 1238,
-    "timeDay": 957,
-    "timeWeek": 835,
-    "timeMonth": 870,
-    "timeYear": 1202,
+    "timeDay": 834,
+    "timeWeek": 823,
+    "timeMonth": 867,
+    "timeYear": 1198,
     "dailyMinutesDown": {
-      "2024-10-21": 12,
       "2024-10-20": 33,
       "2024-10-19": 30,
       "2024-10-18": 16,
@@ -106,7 +105,8 @@
       "2024-07-31": 41,
       "2024-07-30": 21,
       "2024-07-29": 28,
-      "2024-07-28": 24
+      "2024-07-28": 24,
+      "2024-07-27": 21
     }
   }
 ]
