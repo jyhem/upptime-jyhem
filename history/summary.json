@@ -30,18 +30,19 @@
     "url": "http://zata.free.fr",
     "icon": "https://icons.duckduckgo.com/ip3/zata.free.fr.ico",
     "slug": "le-zata",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.64%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.21%",
     "uptimeMonth": "98.16%",
-    "uptimeYear": "99.51%",
+    "uptimeYear": "99.52%",
     "time": 1238,
-    "timeDay": 834,
-    "timeWeek": 823,
+    "timeDay": 721,
+    "timeWeek": 814,
     "timeMonth": 867,
-    "timeYear": 1198,
+    "timeYear": 1194,
     "dailyMinutesDown": {
+      "2024-10-22": 0,
       "2024-10-20": 33,
       "2024-10-19": 30,
       "2024-10-18": 16,
@@ -105,8 +106,7 @@
       "2024-07-31": 41,
       "2024-07-30": 21,
       "2024-07-29": 28,
-      "2024-07-28": 24,
-      "2024-07-27": 21
+      "2024-07-28": 24
     }
   }
 ]
