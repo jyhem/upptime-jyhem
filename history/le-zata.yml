@@ -1,7 +1,7 @@
 url: http://zata.free.fr
-status: up
-code: 200
-responseTime: 706
-lastUpdated: 2025-01-17T16:56:02.536Z
+status: down
+code: 500
+responseTime: 2761
+lastUpdated: 2025-01-17T22:42:46.057Z
 startTime: 2021-06-08T17:21:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
