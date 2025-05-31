@@ -11,9 +11,9 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.88%",
     "time": 1194,
-    "timeDay": 1110,
+    "timeDay": 1228,
     "timeWeek": 1352,
-    "timeMonth": 1282,
+    "timeMonth": 1283,
     "timeYear": 1203,
     "dailyMinutesDown": {
       "2025-05-08": 19,
@@ -33,16 +33,16 @@
     "url": "http://zata.free.fr",
     "icon": "https://icons.duckduckgo.com/ip3/zata.free.fr.ico",
     "slug": "le-zata",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
     "uptimeDay": "89.51%",
-    "uptimeWeek": "91.96%",
+    "uptimeWeek": "92.13%",
     "uptimeMonth": "94.33%",
     "uptimeYear": "99.37%",
     "time": 973,
-    "timeDay": 755,
-    "timeWeek": 858,
-    "timeMonth": 895,
+    "timeDay": 778,
+    "timeWeek": 857,
+    "timeMonth": 896,
     "timeYear": 983,
     "dailyMinutesDown": {
       "2025-05-31": 151,
@@ -90,8 +90,7 @@
       "2025-02-23": 23,
       "2025-02-19": 26,
       "2025-02-13": 31,
-      "2025-02-07": 49,
-      "2025-02-06": 29
+      "2025-02-07": 49
     }
   }
 ]
