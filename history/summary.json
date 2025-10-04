@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 1217,
-    "timeDay": 953,
-    "timeWeek": 1304,
-    "timeMonth": 1249,
+    "timeDay": 1015,
+    "timeWeek": 1252,
+    "timeMonth": 1246,
     "timeYear": 1222,
     "dailyMinutesDown": {
       "2025-05-08": 19,
@@ -35,17 +35,16 @@
     "slug": "le-zata",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "97.81%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "97.84%",
     "uptimeYear": "98.85%",
-    "time": 964,
-    "timeDay": 1099,
-    "timeWeek": 1034,
-    "timeMonth": 938,
+    "time": 963,
+    "timeDay": 1130,
+    "timeWeek": 1002,
+    "timeMonth": 936,
     "timeYear": 970,
     "dailyMinutesDown": {
-      "2025-10-03": 11,
       "2025-10-02": 27,
       "2025-09-29": 26,
       "2025-09-23": 55,
@@ -97,7 +96,8 @@
       "2025-07-12": 284,
       "2025-07-11": 147,
       "2025-07-10": 201,
-      "2025-07-09": 63
+      "2025-07-09": 63,
+      "2025-07-08": 19
     }
   }
 ]
