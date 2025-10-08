@@ -34,8 +34,8 @@
     "url": "http://zata.free.fr",
     "icon": "https://icons.duckduckgo.com/ip3/zata.free.fr.ico",
     "slug": "le-zata",
-    "status": "up",
-    "uptime": "99.73%",
+    "status": "down",
+    "uptime": "99.74%",
     "uptimeDay": "98.39%",
     "uptimeWeek": "99.00%",
     "uptimeMonth": "97.90%",
@@ -99,8 +99,7 @@
       "2025-07-13": 179,
       "2025-07-12": 284,
       "2025-07-11": 147,
-      "2025-07-10": 201,
-      "2025-07-09": 26
+      "2025-07-10": 201
     }
   }
 ]
