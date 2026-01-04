@@ -6,14 +6,14 @@
     "slug": "dpm-www",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "96.36%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.48%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.91%",
     "time": 1227,
-    "timeDay": 912,
-    "timeWeek": 1032,
-    "timeMonth": 1160,
+    "timeDay": 940,
+    "timeWeek": 1023,
+    "timeMonth": 1159,
     "timeYear": 1242,
     "dailyMinutesDown": {
       "2026-01-03": 41,
@@ -40,17 +40,17 @@
     "slug": "le-zata",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "95.20%",
-    "uptimeWeek": "99.10%",
-    "uptimeMonth": "98.71%",
+    "uptimeDay": "96.00%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "98.74%",
     "uptimeYear": "99.37%",
     "time": 979,
-    "timeDay": 854,
-    "timeWeek": 919,
-    "timeMonth": 905,
+    "timeDay": 836,
+    "timeWeek": 930,
+    "timeMonth": 909,
     "timeYear": 983,
     "dailyMinutesDown": {
-      "2026-01-03": 69,
+      "2026-01-03": 57,
       "2025-12-28": 21,
       "2025-12-27": 49,
       "2025-12-22": 19,
@@ -118,7 +118,8 @@
       "2025-09-05": 37,
       "2025-09-03": 21,
       "2025-09-02": 58,
-      "2025-09-01": 20
+      "2025-09-01": 20,
+      "2025-08-31": 16
     }
   }
 ]
