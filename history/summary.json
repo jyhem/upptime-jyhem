@@ -4,13 +4,13 @@
     "url": "https://dpm.univ-grenoble-alpes.fr",
     "icon": "https://icons.duckduckgo.com/ip3/dpm.univ-grenoble-alpes.fr.ico",
     "slug": "dpm-www",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.23%",
-    "time": 1270,
+    "time": 1269,
     "timeDay": 1113,
     "timeWeek": 1231,
     "timeMonth": 1249,
@@ -28,7 +28,8 @@
       "2026-05-04": 548,
       "2026-05-03": 1440,
       "2026-05-02": 1440,
-      "2026-05-01": 62
+      "2026-05-01": 62,
+      "2026-08-11": 0
     }
   },
   {
